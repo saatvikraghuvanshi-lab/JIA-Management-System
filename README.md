@@ -1,4 +1,5 @@
 ﻿JIA MANAGEMENT SYSTEM
+ 
 ER Diagram and Relational Schema 
 <img width="4512" height="1902" alt="ER_AMS" src="https://github.com/user-attachments/assets/a91f3b75-2fa5-43cf-8907-afec3ef9e0ec" />
 <img width="4512" height="1902" alt="SchemaAMS" src="https://github.com/user-attachments/assets/7c66a9c3-8813-43a5-9938-f71aac1b674c" />
